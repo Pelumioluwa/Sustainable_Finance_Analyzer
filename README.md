@@ -2,6 +2,8 @@
 
 Welcome to the Research Data Analyzer repository! This repository is designed to leverage cutting-edge technologies to develop, construct, and optimize data-centric solutions. My primary goal is to assist researchers in unlocking the value of their data through innovative approaches.
 
+Kindly note this repository is still being developed and regular changes are still being pushed.
+
 ## Features
 - **Utilization of Latest Technologies**: We harness the power of the latest technologies in LLM through the adoptation of RAG architecture
 - **Design and Build**: The repository provides tools and resources to design and build robust data-centric solutions tailored to your research needs.
