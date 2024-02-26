@@ -11,10 +11,7 @@ Kindly note this repository is still being developed and regular changes are sti
 
 ## Getting Started
 To get started with utilizing the resources and tools available in this repository, please refer to the following steps:
-1. **Clone the Repository**: Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/your-username/data-centric-solutions.git
-   ```
+1. **Clone the Repository**: Clone this repository to your local machine
 2. **Explore Resources**: Explore the various folders and files within the repository to access tools, templates, and documentation. 
 3. **Contribute**: Happy to receive contributions from the community! If you have ideas for improvements or would like to add your own tools/resources, please reach out to me.
 4. **Data Flexibility**: The repository has been designed for easy adaptation of various textual data sources, allowing users to implement their own data
